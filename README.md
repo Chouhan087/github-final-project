@@ -25,3 +25,5 @@ The calculated simple interest is displayed to the user.
 - Bash
 - Git
 - GitHub
+
+This line was added for the bug fix.
